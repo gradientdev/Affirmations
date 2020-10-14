@@ -2,8 +2,8 @@
 
 ![Screenshot](Affirmations512.png)
 
-A affirmation quote app that I am making to practice using RecyclerViews in Android. This is my second Android app project!
+A affirmation quote app that I made to practice using RecyclerViews in Android. This was my second Android app project!
 
-It will feature quotes with pictures, each inside cards. I'll also try to make a second page for contact info and instructions on how to use the app.
+It features a collection of quotes with pictures, each inside cards. The app uses a material dark theme.
 
-This app is currently in progress, but more updates will come soon!
+I most likely won't publicly release the app, but you're free to use or look at what's here!
