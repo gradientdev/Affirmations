@@ -1,3 +1,5 @@
 # Affirmations
 
-A affirmation quote app that I am making to practice using RecyclerView in Android. 
+A affirmation quote app that I am making to practice using RecyclerViews in Android. 
+
+This app is currently in progress, but more updates will come soon!
